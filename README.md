@@ -1,4 +1,4 @@
-SIGGRAPH Asis 2019
+SIGGRAPH Asia 2019
 
 Authors: [Orly Liba](https://sites.google.com/site/orlylibaprofessional/),
 [Kiran Murthy](https://scholar.google.com/citations?user=6PhlPWMAAAAJ),
@@ -8,8 +8,9 @@ Authors: [Orly Liba](https://sites.google.com/site/orlylibaprofessional/),
 [Nikhil Karnad](https://scholar.google.com/citations?user=qgc_jY0AAAAJ),
 [Qiurui He](https://scholar.google.com/citations?user=BxqV_RsAAAAJ),
 [Jon Barron](https://jonbarron.info/),
-[Dillon Sharlet](https://ai.google/research/people/105641/), Ryan Geiss,
-[Sam Hasionff](https://people.csail.mit.edu/hasinoff/),
+[Dillon Sharlet](https://ai.google/research/people/105641/),
+[Ryan Geiss](http://www.geisswerks.com/),
+[Sam Hasinoff](https://people.csail.mit.edu/hasinoff/),
 [Yael Pritch](https://scholar.google.com/citations?user=2jXxOYQAAAAJ),
 [Marc Levoy](http://graphics.stanford.edu/~levoy/)
 
@@ -25,7 +26,7 @@ these cameras are typically handheld, have small apertures and sensors, use
 mass-produced analog electronics that cannot easily be cooled, and are commonly
 used to photograph subjects that move, like children and pets. In this paper we
 describe a system for capturing clean, sharp, colorful photographs in light as
-low as 0.3~lux, where human vision becomes monochrome and indistinct.
+low as 0.3 lux, where human vision becomes monochrome and indistinct.
 
 To permit handheld photography without flash illumination, we capture, align,
 and combine multiple frames. Our system employs motion metering, which uses an

@@ -1,5 +1,3 @@
-# Handheld Mobile Photography in Very Low Light
-
 SIGGRAPH Asis 2019
 
 Authors: [Orly Liba](https://sites.google.com/site/orlylibaprofessional/),

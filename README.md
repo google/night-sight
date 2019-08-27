@@ -15,7 +15,7 @@ Authors: [Orly Liba](https://sites.google.com/site/orlylibaprofessional/),
 
 ![figure1](./assets/night-sight-teaser.png)
 
-#### Abstract
+## Abstract
 
 Taking photographs in low light using a mobile phone is challenging and rarely
 produces pleasing photographs.
@@ -47,6 +47,6 @@ Our system can be used by novice photographers to produce shareable pictures in
 a few seconds based on a single shutter press, even in environments so dim that
 humans cannot see clearly.
 
-#### Downloads
+## Downloads
 
 Link to the paper: coming soon!

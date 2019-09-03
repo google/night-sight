@@ -50,4 +50,4 @@ humans cannot see clearly.
 
 ## Downloads
 
-Link to the paper: coming soon!
+Link to the paper: we will release it after [SIGGRAPH Asia 2019](https://sa2019.siggraph.org/).

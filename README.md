@@ -10,7 +10,7 @@ Authors: [Orly Liba](https://sites.google.com/site/orlylibaprofessional/),
 [Jonathan T. Barron](https://jonbarron.info/),
 [Dillon Sharlet](https://ai.google/research/people/105641/),
 [Ryan Geiss](http://www.geisswerks.com/),
-[Sam Hasinoff](https://people.csail.mit.edu/hasinoff/),
+[Samuel W. Hasinoff](https://people.csail.mit.edu/hasinoff/),
 [Yael Pritch](https://scholar.google.com/citations?user=2jXxOYQAAAAJ),
 [Marc Levoy](http://graphics.stanford.edu/~levoy/)
 

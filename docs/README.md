@@ -14,7 +14,7 @@ Authors: [Orly Liba](https://sites.google.com/site/orlylibaprofessional/),
 [Yael Pritch](https://scholar.google.com/citations?user=2jXxOYQAAAAJ),
 [Marc Levoy](http://graphics.stanford.edu/~levoy/)
 
-![figure1](./assets/night-sight-teaser.png)
+![figure1](./night-sight-teaser.png)
 
 ## Abstract
 

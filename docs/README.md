@@ -50,4 +50,8 @@ humans cannot see clearly.
 
 ## Downloads
 
+Results on HDR+ dataset: [link](https://photos.app.goo.gl/eJAVSfSEgG5V9cQP6)
+
+Arxiv: [https://arxiv.org/abs/1910.11336](https://arxiv.org/abs/1910.11336)
+
 Link to the paper: we will release it after [SIGGRAPH Asia 2019](https://sa2019.siggraph.org/).

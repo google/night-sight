@@ -1,3 +1,5 @@
+# Handheld Mobile Photography in Very Low Light
+
 SIGGRAPH Asia 2019
 
 Authors: [Orly Liba](https://sites.google.com/site/orlylibaprofessional/),
@@ -48,6 +50,3 @@ Our system can be used by novice photographers to produce shareable pictures in
 a few seconds based on a single shutter press, even in environments so dim that
 humans cannot see clearly.
 
-## Downloads
-
-Link to the paper: we will release it after [SIGGRAPH Asia 2019](https://sa2019.siggraph.org/).

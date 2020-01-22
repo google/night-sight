@@ -1,5 +1,3 @@
-[Handheld Mobile Photography in Very Low Light](https://google.github.io/night-sight/)
-
 SIGGRAPH Asia 2019
 
 Authors: [Orly Liba](https://sites.google.com/site/orlylibaprofessional/),

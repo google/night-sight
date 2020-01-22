@@ -43,6 +43,10 @@ Our system can be used by novice photographers to produce shareable pictures in
 a few seconds based on a single shutter press, even in environments so dim that
 humans cannot see clearly.
 
+### Citation
+
+Liba, Orly, Kiran Murthy, Yun-Ta Tsai, Tim Brooks, Tianfan Xue, Nikhil Karnad, Qiurui He et al. "Handheld mobile photography in very low light." ACM Transactions on Graphics (TOG) 38, no. 6 (2019): 1-16.
+
 ## Downloads
 
 Results on HDR+ dataset: coming soon [*]

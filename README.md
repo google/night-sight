@@ -1,4 +1,4 @@
-[# Handheld Mobile Photography in Very Low Light](https://google.github.io/night-sight/)
+# [Handheld Mobile Photography in Very Low Light](https://google.github.io/night-sight/)
 
 SIGGRAPH Asia 2019
 

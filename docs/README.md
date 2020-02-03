@@ -1,6 +1,6 @@
 SIGGRAPH Asia 2019
 
-Authors: [Orly Liba](https://sites.google.com/site/orlylibaprofessional/),
+Authors: [Orly Liba](https://sites.google.com/corp/view/orly-liba/),
 [Kiran Murthy](https://scholar.google.com/citations?user=6PhlPWMAAAAJ),
 [Yun-Ta Tsai](https://ai.google/research/people/105312/),
 [Timothy Brooks](https://www.timothybrooks.com/),

@@ -50,10 +50,8 @@ Ryan Geiss, Samuel W. Hasinoff, Yael Pritch, Marc Levoy, "Handheld mobile photog
 
 ## Downloads
 
-Results on HDR+ dataset: coming soon [*]
+Results on HDR+ dataset: [link](https://github.com/google/night-sight/blob/master/docs/Our%20results%20on%20the%20HDR%2B%20Dataset.md)
 
 arXiv: [https://arxiv.org/abs/1910.11336](https://arxiv.org/abs/1910.11336)
 
 Presentation in SIGGRAPH Asia 2019: [link](http://sa2019.conference-program.com/presentation/?id=papers_182&sess=sess104)
-
-[*] Note that an earlier version of these results (shared between Oct 29, 2019 and Jan 7, 2020) were compromised by a configuration error that affected older bursts. Please use the most recent results only.

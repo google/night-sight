@@ -1,6 +1,6 @@
 # Supplement: Our results on the HDR+ Dataset
 
-The following Photos albums show a comparison between [[Hasinoff et al., 2016]](https://hdrplusdata.org/)*  and our algorithm on the [HDR+ dataset](https://hdrplusdata.org/dataset.html).
+The following Photos albums show a comparison between [[Hasinoff et al., 2016]](https://hdrplusdata.org/) and our algorithm on the [HDR+ dataset](https://hdrplusdata.org/dataset.html).
 
 * [Comparison between HDR+ and our results](https://photos.app.goo.gl/Mzpjka64mUGYhNN89)
 * [Our results](https://photos.app.goo.gl/M8A4hkvEgTRd6Gs46)
